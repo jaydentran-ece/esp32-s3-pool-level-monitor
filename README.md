@@ -51,7 +51,7 @@ A custom two-piece enclosure was designed in Autodesk Fusion to house the electr
 
 | Assembled Enclosure | Base | Lid |
 |---|---|---|
-| ![Enclosure](images/enclosure_assembled.png) | ![Base](images/enclosure_base.png) | ![Lid](images/enclosure-lid.png) |
+| ![Enclosure](images/enclosure_assembled.png) | ![Base](images/enclosure_base.png) | ![Lid](images/enclosure_lid.png) |
 
 The original Fusion design and printable STL files are available in the [cad](cad/) directory.
 
