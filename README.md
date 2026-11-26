@@ -25,7 +25,6 @@ This project was developed for a neighbor experiencing pool water loss who neede
 | Resistors | Voltage-level interfacing |
 | Perfboard | Soldered circuit assembly |
 | Female pin headers | Removable component connections |
-| 3D-printed enclosure | Electronics housing |
 
 ## System Operation
 
@@ -77,13 +76,6 @@ The original Fusion design and printable STL files are available in the [cad](ca
 4. Configure the ESP32-S3 board settings with PSRAM enabled.
 5. Adjust the calibration offset for your sensor's mounting position.
 6. Compile and upload the firmware.
-
-## Future Improvements
-
-- Improve camera image quality.
-- Implement historical water level logging.
-- Add configurable water loss alerts.
-- Develop a custom PCB to replace the perfboard.
 
 ## Acknowledgments
 
