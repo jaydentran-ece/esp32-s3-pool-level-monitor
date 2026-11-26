@@ -51,7 +51,7 @@ A custom two-piece enclosure was designed in Autodesk Fusion to house the electr
 
 | Assembled Enclosure | Base | Lid |
 |---|---|---|
-| ![Enclosure](images/enclosure-assembled.png) | ![Base](images/enclosure-base.png) | ![Lid](images/enclosure-lid.png) |
+| ![Enclosure](images/enclosure_assembled.png) | ![Base](images/enclosure_base.png) | ![Lid](images/enclosure-lid.png) |
 
 The original Fusion design and printable STL files are available in the [cad](cad/) directory.
 
@@ -59,7 +59,7 @@ The original Fusion design and printable STL files are available in the [cad](ca
 
 | ESP32-S3-CAM Image Capture | Telegram Notification |
 |---|---|
-| ![Pool capture](images/pool-capture.jpeg) | ![Telegram notification](images/telegram-demo.png) |
+| ![Pool capture](images/pool_capture.jpeg) | ![Telegram notification](images/telegram-demo.jpeg) |
 
 ## Software Setup
 
