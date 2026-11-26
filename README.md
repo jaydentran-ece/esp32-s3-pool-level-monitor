@@ -2,9 +2,9 @@
 
 ## Overview
 
-An IoT-based pool water level monitoring system developed using an ESP32-S3-CAM and a waterproof ultrasonic sensor. The system periodically measures the water level, captures an image of the pool, and sends the results through Telegram over Wi-Fi.
+This project is an IoT-based pool water level monitoring system developed using an ESP32-S3 with an integrated camera and a waterproof ultrasonic sensor. The system periodically measures the water level relative to a desired baseline, captures an image of the pool, and sends the results through Telegram over Wi-Fi.
 
-This project was developed for a neighbor experiencing pool water loss who needed a low-cost alternative to frequent manual water level measurements while investigating a potentially expensive repair.
+I developed this project to provide my neighbor with a temporary, low-cost solution for her leaking pool. Instead of paying a expensive repair bill and closing the pool early for the season, I designed a system that allowed us to remotely monitor the pool's water level and determine when it needed to be refilled using a garden hose.
 
 ## Key Features
 
@@ -38,7 +38,7 @@ The firmware also incorporates camera initialization retries, sensor timeouts, W
 
 ## Hardware Assembly
 
-The circuit was assembled on a soldered perfboard using removable connections for the ESP32-S3-CAM and ultrasonic sensor module, allowing for easier maintenance, replacement, and troubleshooting.
+The circuit was assembled on a soldered perfboard using removable connections for the ESP32-S3-CAM and ultrasonic sensor module, allowing for easier replacement and troubleshooting.
 
 | Assembled | Disassembled | Solder Connections |
 |---|---|---|
