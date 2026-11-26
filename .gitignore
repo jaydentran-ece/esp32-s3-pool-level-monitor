@@ -1,0 +1,8 @@
+# Private credentials
+secrets.h
+
+# Build output
+build/
+*.bin
+*.elf
+*.map
